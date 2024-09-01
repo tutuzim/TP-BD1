@@ -13,10 +13,13 @@
         <div class= "menu" >
 
         <br><br><br><br><br><br>
-        <a href="inserir.php"> Inserir dados </a> <br>
-        <a href="formDeletar.php"> Deletar dados </a> <br>
-        <a href="formdeletar.php"> Alterar dados - Em breve </a> <br>
-        <a href="formItemVenda.php"> Consultar dados </a> <br>
+
+        <ul>
+            <li> <a href="inserir.php"> Inserir dados </a> </li>
+            <li> <a href="formDeletar.php"> Deletar dados </a> </li>
+            <li> <a href="formdeletar.php"> Alterar dados - Em breve </a> </li>
+            <li> <a hrcef="formItemVenda.php"> Consultar dados - Em breve </a> </li>
+        </ul>
 
         </div>        
     </body>

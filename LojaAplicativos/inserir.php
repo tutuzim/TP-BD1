@@ -12,11 +12,13 @@
     <body>
         <div class= "menu" >
  
-        <a href="formDesenvolvedor.php"> Insira desenvolvedor </a> <br>
-        <a href="formUsuario.php"> Insira usuario </a> <br>
-        <a href="formAplicativo.php"> Insira aplicativo </a> <br>
-        <a href="formItemVenda.php"> Insira item de venda </a> <br>
-        <a href="formVenda.php"> Insira venda </a> <br>
+        <ul>
+            <li> <a href="formDesenvolvedor.php"> Insira desenvolvedor </a> <br> </li>
+            <li> <a href="formUsuario.php"> Insira usuario </a> <br> </li>
+            <li> <a href="formAplicativo.php"> Insira aplicativo </a> <br> </li>
+            <li> <a href="formItemVenda.php"> Insira item de venda </a> <br> </li>
+            <li> <a href="formVenda.php"> Insira venda </a> <br> </li>
+        </ul>
 
         </div>        
     </body>
